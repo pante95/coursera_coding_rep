@@ -73,6 +73,11 @@ p {
 
 /**** MEDIA QUERIES ****/
 
+/********** Desktop and Tablet version **********/
+@media (min-width: 768px) {
+
+}
+
 /********** Mobile version **********/
 @media (max-width: 767px) {
     #collapsable-nav {
